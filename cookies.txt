@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sbktcsociety.com	TRUE	/	FALSE	1999999999	PHPSESSID	284fd97f7e71e1441a2a57a85f0c16a6
+

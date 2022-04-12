@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Apr 2022 17:29:11 at http://sbktcsociety.com/board-of-management.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://sbktcsociety.com/board-of-management.php -O1 "C:\Users\HP\Desktop\company_project" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:29:15	Warning: 	Note: due to sbktcsociety.com remote robots.txt rules, links beginning with these path will be forbidden: /beta/, /kahpro/ (see in the options to disable this)
+17:32:35	Error: 	"Not Found" (404) at link sbktcsociety.com/wp-content/themes/website/index.php (from sbktcsociety.com/board-of-management.php)
+17:36:58	Warning: 	file not stored in cache due to bogus state (broken size, expected 1244632 got 723996): sbktcsociety.com/upload/committee/1442566388_Managing Committe Report 2014-15.pdf
+17:51:55	Warning: 	File not parsed, looks like binary: sbktcsociety.com/wp-content/plugins/revslider/rs-plugin/font/revicons90c6.html?5510888
+17:51:55	Warning: 	Warning: store application/octet-stream without scan: C:/Users/HP/Desktop/company_project/sbktcsociety.com/wp-content/plugins/revslider/rs-plugin/font/revicons90c690c6.html
+17:51:55	Error: 	"Not Found" (404) at link sbktcsociety.com/wp-content/themes/website/img/resp_navi_bg.png (from sbktcsociety.com/wp-content/themes/website/style.css)
+17:51:55	Warning: 	File not parsed, looks like binary: sbktcsociety.com/wp-content/themes/website/css/fonts/icomoon.html
+17:51:55	Warning: 	Warning: store application/octet-stream without scan: C:/Users/HP/Desktop/company_project/sbktcsociety.com/wp-content/themes/website/css/fonts/icomoon.html
+17:51:55	Error: 	"Not Found" (404) at link sbktcsociety.com/download/form/membership form.jpg (from sbktcsociety.com/index.php)
+17:56:16	Warning: 	file not stored in cache due to bogus state (broken size, expected 6638238 got 1838556): sbktcsociety.com/upload/law/1436530938_Bye Laws.pdf
+18:07:49	Warning: 	Retry after error -4 (Incorrect length (723996 Bytes, 1244632 expected)) at link sbktcsociety.com/upload/committee/1442566388_Managing Committe Report 2014-15.pdf (from sbktcsociety.com/agm-sgbm-details.php)
+18:07:49	Warning: 	Retry after error -4 (Incorrect length (834455 Bytes, 2451469 expected)) at link sbktcsociety.com/upload/committee/1430134169_Managing Committe Report 2013-14.pdf (from sbktcsociety.com/agm-sgbm-details.php)
+18:07:50	Warning: 	Retry after error -4 (Incorrect length (484671 Bytes, 578077 expected)) at link sbktcsociety.com/upload/audit/1507286949_Audit Report 2016-2017.pdf (from sbktcsociety.com/audit-details.php)
+18:08:02	Warning: 	Retry after error -4 (Incorrect length (1838556 Bytes, 6638238 expected)) at link sbktcsociety.com/upload/law/1436530938_Bye Laws.pdf (from sbktcsociety.com/bye-laws.php)
+18:08:06	Error: 	"Not Found" (404) at link sbktcsociety.com/bkadmin/images/buttone539.html?1298351022 (from sbktcsociety.com/bkadmin/stylesheet/formalize.css)
+18:08:06	Error: 	"Not Found" (404) at link sbktcsociety.com/bkadmin/images/marker2.gif (from sbktcsociety.com/bkadmin/stylesheet/style.css)
+18:08:06	Error: 	"Not Found" (404) at link sbktcsociety.com/bkadmin/images/marker.png (from sbktcsociety.com/bkadmin/stylesheet/style.css)
+18:08:06	Error: 	"Not Found" (404) at link sbktcsociety.com/bkadmin/images/top-pattern.png (from sbktcsociety.com/bkadmin/stylesheet/style.css)
+18:08:06	Error: 	"Not Found" (404) at link sbktcsociety.com/bkadmin/images/pattern/faded-noise.png (from sbktcsociety.com/bkadmin/stylesheet/style.css)
+18:08:06	Error: 	"Not Found" (404) at link sbktcsociety.com/bkadmin/images/pattern/hatch.gif (from sbktcsociety.com/bkadmin/stylesheet/style.css)
+18:08:06	Error: 	"Not Found" (404) at link sbktcsociety.com/bkadmin/images/sprites.png (from sbktcsociety.com/bkadmin/stylesheet/style.css)
+18:08:06	Error: 	"Not Found" (404) at link sbktcsociety.com/bkadmin/images/pattern/faded-cross-hatch.gif (from sbktcsociety.com/bkadmin/stylesheet/style.css)
+18:08:06	Error: 	"Not Found" (404) at link sbktcsociety.com/bkadmin/images/pattern/line-diag.gif (from sbktcsociety.com/bkadmin/stylesheet/style.css)
+18:08:06	Error: 	"Not Found" (404) at link sbktcsociety.com/bkadmin/images/bg-input.jpg (from sbktcsociety.com/bkadmin/stylesheet/style.css)
+18:08:06	Error: 	"Not Found" (404) at link sbktcsociety.com/bkadmin/images/bg-input-focus.jpg (from sbktcsociety.com/bkadmin/stylesheet/style.css)
+18:08:06	Error: 	"Not Found" (404) at link sbktcsociety.com/bkadmin/images/bg-top-gallery.jpg (from sbktcsociety.com/bkadmin/stylesheet/style.css)
+18:09:57	Warning: 	Retry after error -4 (Incorrect length (2664538 Bytes, 6638238 expected)) at link sbktcsociety.com/upload/law/1436530938_Bye Laws.pdf (from sbktcsociety.com/bye-laws.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 43 minutes 28 seconds : 400 links scanned, 379 files written (64180980 bytes overall) [63891496 bytes received at 24498 bytes/sec], 537658 bytes transferred using HTTP compression in 25 files, ratio 23%, 1.8 requests per connection
+(15 errors, 12 warnings, 0 messages)
